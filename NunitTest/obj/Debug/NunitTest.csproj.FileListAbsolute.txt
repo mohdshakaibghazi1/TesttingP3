@@ -1,0 +1,16 @@
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\nunit.engine.dll
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\nunit.engine.api.dll
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\nunit.engine.core.dll
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\testcentric.engine.metadata.dll
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\NunitTest.exe.config
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\NunitTest.exe
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\NunitTest.pdb
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\nunit.framework.dll
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\bin\Debug\nunit.framework.xml
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\obj\Debug\NunitTest.csproj.AssemblyReference.cache
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\obj\Debug\NunitTest.csproj.CoreCompileInputs.cache
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\obj\Debug\NunitTest.csproj.CopyComplete
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\obj\Debug\NunitTest.exe
+D:\TestingPhase3\DailyAssessment\Day3\NunitTest\NunitTest\obj\Debug\NunitTest.pdb
